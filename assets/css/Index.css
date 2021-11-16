@@ -1,13 +1,24 @@
 a{
     text-decoration: none;
+    color: black;
 }
+
+
 
 .arbicfonts{
     font-family: "arbic",serif;
-    font-size: 33px;
+    font-size: 30px;
     text-align: center;
+
 }
 
 .Roundedimage{
     border-radius: 50%;
+}
+
+@media only screen and (max-width: 600px){
+    .arbicfonts {
+        font-size: 25px;
+        font-weight: bold;
+    }
 }
