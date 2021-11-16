@@ -48,10 +48,13 @@ a{
 
 @media only screen and (max-width: 320px) {
     .arbicfonts {      
-      font-size: 20px;
+      font-size: 16px;
       padding: 0%;
       margin: 0%;
       font-family: "arbic",serif;
       float: right;
+      color: blue;
     }
   }
+
+  
