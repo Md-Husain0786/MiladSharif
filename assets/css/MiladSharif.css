@@ -48,9 +48,43 @@ a{
     margin: 0%;
     font-family: "arbic",serif;
     float: right;
+    color:red;
 }
 }
 
+@media only screen and (max-width: 363px){
+    .arbicfonts {
+        font-size: 21px;
+        padding: 0%;
+        margin: 0%;
+        font-family: "arbic",serif;
+        float: right;
+        color:green;
+    }
+    }
+
+    @media only screen and (max-width: 326px){
+        .arbicfonts {
+            font-size: 18px;
+            padding: 0%;
+            margin: 0%;
+            font-family: "arbic",serif;
+            float: right;
+            color:hotpink;
+        }
+        }
+
+        @media only screen and (max-width: 290px){
+            .arbicfonts {
+                font-size: 17px;
+                padding: 0%;
+                margin: 0%;
+                font-family: "arbic",serif;
+                float: right;
+                color:lightseagreen;
+            }
+            }
+    
 
 @media only screen and (max-width: 280px) {
     .arbicfonts {      
