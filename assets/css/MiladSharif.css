@@ -38,7 +38,14 @@ a{
 
 @media(mix-width:281px) and (max-width:479px)
 {
-    
+    .arbicfonts {      
+        font-size: 16px;
+        padding: 0%;
+        margin: 0%;
+        font-family: "arbic",serif;
+        float: right;
+        color: red;
+      }
 }
 
 @media only screen and(max-width:344){
@@ -46,14 +53,14 @@ a{
 }
 
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 600px) {
     .arbicfonts {      
       font-size: 16px;
       padding: 0%;
       margin: 0%;
       font-family: "arbic",serif;
       float: right;
-      color: blue;
+      
     }
   }
 
