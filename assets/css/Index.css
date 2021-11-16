@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+}
+
+.arbicfonts{
+    font-family: "arbic",serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.Roundedimage{
+    border-radius: 50%;
+}
