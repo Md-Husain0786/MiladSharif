@@ -2,9 +2,11 @@ a{
     text-decoration: none;
 }
 
+
 .arbicfonts{
     font-family: "arbic",serif;
-    float: right;
+    /* float: right; */
+    float: left;
 }
 
 .font-bold{
@@ -17,13 +19,14 @@ a{
 
 
   
-@media(mix-width: 992px)
+/* @media(mix-width: 992px)
 {
     .arbicfonts{
         font-family: "arbic",serif;
         float: right;
+        float: left;
     }
-}
+} */
 
 @media(min-width:768px) and (max-width:991px)
 {
@@ -47,27 +50,44 @@ a{
 
 @media only screen and (max-width: 600px){
 .arbicfonts {
-    font-size: 18px;
+    /* font-size: 21px; */
     padding: 0%;
     margin: 0%;
     font-family: "arbic",serif;
     float: right;
     color:red;
+    text-align: center;
+    /* float: left; */
 }
-}
+} 
 
-@media only screen and (max-width: 363px){
+ @media only screen and (max-width: 363px){
     .arbicfonts {
-        font-size: 18px;
+        /* font-size: 20px; */
         padding: 0%;
         margin: 0%;
         font-family: "arbic",serif;
         float: right;
         color:green;
+        /* float: left; */
+        text-align: center;
     }
     }
+    
+/* 
+    @media only screen and (max-width: 344px){
+        .arbicfonts {
+            font-size: 18px;
+            padding: 0%;
+            margin: 0%;
+            font-family: "arbic",serif;
+            float: right;
+            color:brown;
+            float: left;
+        }
+        } */
 
-    @media only screen and (max-width: 326px){
+    /* @media only screen and (max-width: 326px){
         .arbicfonts {
             font-size: 16px;
             padding: 0%;
@@ -75,10 +95,11 @@ a{
             font-family: "arbic",serif;
             float: right;
             color:hotpink;
+            float: left;
         }
-        }
+        } */
 
-        @media only screen and (max-width: 290px){
+        /* @media only screen and (max-width: 290px){
             .arbicfonts {
                 font-size: 15px;
                 padding: 0%;
@@ -86,11 +107,12 @@ a{
                 font-family: "arbic",serif;
                 float: right;
                 color:lightseagreen;
+                float: left;
             }
             }
-    
+     */
 
-@media only screen and (max-width: 280px) {
+/* @media only screen and (max-width: 280px) {
     .arbicfonts {      
       font-size: 14px;
       padding: 0%;
@@ -98,7 +120,8 @@ a{
       font-family: "arbic",serif;
       float: right;
       color:blue;
+      float: left;
     }
-  }
+  } */
 
   
