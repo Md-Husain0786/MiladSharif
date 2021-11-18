@@ -12,6 +12,14 @@ a{
     /* float: left; */
 }
 
+.middle-middle{
+    font-family: "arbic",serif;
+    white-space: nowrap;
+    font-size: 19px;
+    color:green;
+    font-weight: bold;
+}
+
 .font-bold{
     font-weight: bold;      
 }
