@@ -1,11 +1,23 @@
-table{
-    width: 300px;
-    
+a{
+    text-decoration: none;
 }
 
+
 .arbicfonts{
-    font-family: arbic;
-    color: red;
-    
+    font-family: "arbic",serif;
+    white-space: nowrap;
+    font-size: 15px;
+    /* float: right; */
+    /* float: left; */
+}
+
+.font-bold{
+    font-weight: bold;      
+}
+
+.milad-title{
+    font-size: 40px;
+    font-family: Mehr Nastaliq Web\ 3;
+    /* white-space: nowrap; */
 }
 
