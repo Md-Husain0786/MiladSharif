@@ -6,7 +6,7 @@ a{
 .arbicfonts{
     font-family: "arbic",serif;
     /* float: right; */
-    float: left;
+    /* float: left; */
 }
 
 .font-bold{
