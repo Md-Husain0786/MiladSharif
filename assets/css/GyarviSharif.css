@@ -2,6 +2,18 @@ a{
     text-decoration: none;
 }
 
+.cell-padding{
+    padding: 5px;
+}
+
+.hr-design{
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    padding: 0%;
+    margin-bottom: -7%;
+}
+
 .arbicfonts{
     font-family: 'Noto Naskh Arabic', serif;
     white-space: nowrap;
@@ -15,8 +27,17 @@ a{
     font-size: 21px;
     color:red;
     font-weight: bold;
+    padding: 5px;
 }
 
+.middle-title2{
+    font-family: 'Noto Naskh Urdu', serif;
+    white-space: nowrap;
+    font-size: 21px;
+    color:red;
+    font-weight: bold;
+    padding: 5px;
+}
 .font-bold{
     font-weight: bold;      
 }
