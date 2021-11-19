@@ -9,7 +9,7 @@ a{
 .hr-design{
     font-weight: bold;
     text-align: center;
-    font-size: 50px;
+    font-size: 20px;
     padding: 0%;
     margin-bottom: -7%;
 }
@@ -21,19 +21,30 @@ a{
     color:green;
 }
 
+
+
 .middle-middle{
     font-family: 'Noto Nastaliq Urdu', serif;
     white-space: nowrap;
-    font-size: 21px;
+    font-size: 20px;
+    color:red;
+    font-weight: bold;
+    padding: 2px;
+}
+
+.milad-title-3{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 25px;
     color:red;
     font-weight: bold;
     padding: 2px;
 }
 
 .middle-title2{
-    font-family: 'Noto Naskh Urdu', serif;
+    font-family: 'Noto Nastaliq Urdu', serif;
     white-space: nowrap;
-    font-size: 21px;
+    font-size: 22px;
     color:red;
     font-weight: bold;
     padding: 5px;
