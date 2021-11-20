@@ -6,10 +6,19 @@ a{
 
 
 .arbicfonts{
-    font-family: "arbic",serif;
+    font-family: 'Noto Naskh Arabic', serif;
+    white-space: nowrap;
     font-size: 30px;
     text-align: center;
+    color: blue;
 
+}
+
+.milad-title{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Noto Nastaliq Urdu', serif;
+    padding-bottom: 10px;
 }
 
 .Roundedimage{
