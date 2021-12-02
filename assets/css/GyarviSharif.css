@@ -23,13 +23,23 @@ a{
 
 
 
-.middle-middle{
+.middle-title{
     font-family: 'Noto Nastaliq Urdu', serif;
     white-space: nowrap;
-    font-size: 20px;
+    font-size: 18px;
     color:red;
     font-weight: bold;
-    padding: 2px;
+    padding: 0px;
+    text-align: center;
+}
+
+.middle-title2{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 18.5px;
+    color:red;
+    font-weight: bold;
+    padding: 1px;
 }
 
 .milad-title-3{
@@ -41,14 +51,16 @@ a{
     padding: 2px;
 }
 
-.middle-title2{
+.middle-title4{
     font-family: 'Noto Nastaliq Urdu', serif;
     white-space: nowrap;
-    font-size: 21px;
+    font-size: 16.5px;
     color:red;
     font-weight: bold;
-    padding: 5px;
+    padding: 1px;
 }
+
+
 .font-bold{
     font-weight: bold;      
 }
