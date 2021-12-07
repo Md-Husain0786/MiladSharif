@@ -1,0 +1,29 @@
+.main-title{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 25px;
+    color:red;
+    font-weight: bold;
+    padding: 2px;
+}
+
+
+.padh-title{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    /* white-space: nowrap; */
+    font-size: 25px;
+    color:red;
+    font-weight: bold;
+    
+}
+
+.Qadria-title{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 22px;
+    color:red;
+    font-weight: bold;
+    display: block;
+    padding-top: 20px;
+    text-align: center;
+}

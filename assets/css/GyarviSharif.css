@@ -1,0 +1,73 @@
+a{
+    text-decoration: none;
+}
+
+.cell-padding{
+    padding: 5px;
+}
+
+.hr-design{
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    padding: 0%;
+    margin-bottom: -7%;
+}
+
+.arbicfonts{
+    font-family: 'Noto Naskh Arabic', serif;
+    white-space: nowrap;
+    font-size: 18px;
+    color:green;
+}
+
+
+
+.middle-title{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 18px;
+    color:red;
+    font-weight: bold;
+    padding: 0px;
+    text-align: center;
+}
+
+.middle-title2{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 18.5px;
+    color:red;
+    font-weight: bold;
+    padding: 1px;
+}
+
+.milad-title-3{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 25px;
+    color:red;
+    font-weight: bold;
+    padding: 2px;
+}
+
+.middle-title4{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 16.5px;
+    color:red;
+    font-weight: bold;
+    padding: 1px;
+}
+
+
+.font-bold{
+    font-weight: bold;      
+}
+
+.milad-title{
+    font-size: 40px;
+    font-family: 'Noto Nastaliq Urdu', serif;
+    padding-bottom: 10px;
+}
+
