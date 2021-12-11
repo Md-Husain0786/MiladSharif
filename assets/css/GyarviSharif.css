@@ -21,6 +21,42 @@ a{
     color:green;
 }
 
+.bismillah-header{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 34px;
+    color: red;
+    font-weight: bold;
+    /* padding: 2px; */
+    padding-bottom: 23px;
+}
+
+.bismillah-section {
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 22.5px;
+    color: red;
+    font-weight: bold;
+    padding: 1px;
+}
+
+.bismillah-section1 {
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 18.3px;
+    color: red;
+    font-weight: bold;
+    padding: 1px;
+}
+
+.bismillah-section2 {
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 19.5px;
+    color: red;
+    font-weight: bold;
+    padding: 1px;
+}
 
 
 .middle-title{
@@ -33,6 +69,17 @@ a{
     text-align: center;
 }
 
+.bismillah-title {
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 21px;
+    color:midnightblue;
+    font-weight: bold;
+    padding: 0px;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
 .middle-title2{
     font-family: 'Noto Nastaliq Urdu', serif;
     white-space: nowrap;
@@ -40,6 +87,69 @@ a{
     color:red;
     font-weight: bold;
     padding: 1px;
+}
+
+.subhanallah-title {
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 22px;
+    color: red;
+    font-weight: bold;
+    padding: 2px;
+}
+
+.subhanallah-content {
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 20.5px;
+    color: red;
+    font-weight: bold;
+    padding: 1px;
+}
+
+.allahu-content{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 25.5px;
+    color: red;
+    font-weight: bold;
+    padding: 1px;
+}
+
+.astagfirullah-title {
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 17.5px;
+    color: red;
+    font-weight: bold;
+    padding: 1px;
+}
+
+.astagfirullah-break {
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 22px;
+    color: red;
+    font-weight: bold;
+    padding: 2px;
+}
+
+.YaLatif-content{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    white-space: nowrap;
+    font-size: 22.5px;
+    color: red;
+    font-weight: bold;
+    padding: 3px;
+}
+
+.jallahmanfi{
+        font-family: 'Noto Nastaliq Urdu', serif;
+        white-space: nowrap;
+        font-size: 17.5px;
+        color: red;
+        font-weight: bold;
+        padding: 1px;
 }
 
 .milad-title-3{

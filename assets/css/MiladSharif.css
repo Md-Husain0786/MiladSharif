@@ -2,6 +2,13 @@ a{
     text-decoration: none;
 }
 
+/* table{
+    box-shadow: -1px 3px 14px 3px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -1px 3px 14px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 3px 14px 3px rgba(0,0,0,0.75);
+padding: 10px;
+} */
+
 .cell-padding{
     padding: 5px;
 }
@@ -90,6 +97,17 @@ a{
 {
     
 }
+
+@media only screen and (max-width: 360px){
+    .middle-middle{
+        font-family: 'Noto Nastaliq Urdu', serif;
+        white-space: nowrap;
+        font-size: 18px;
+        color:red;
+        font-weight: bold;
+        padding: 2px;
+    }
+   }
 
 /* @media only screen and (max-width: 600px){
 .arbicfonts {
